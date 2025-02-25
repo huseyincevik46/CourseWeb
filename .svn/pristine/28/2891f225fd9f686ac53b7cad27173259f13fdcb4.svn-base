@@ -1,0 +1,316 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF81D2C-75F5-4D26-A860-D95607466155}|CourseWeb\\CourseWeb.csproj|d:\\exampleproject\\courseweb\\courseweb\\courseweb\\views\\course\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EF81D2C-75F5-4D26-A860-D95607466155}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\views\\course\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF81D2C-75F5-4D26-A860-D95607466155}|CourseWeb\\CourseWeb.csproj|d:\\exampleproject\\courseweb\\courseweb\\courseweb\\views\\course\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EF81D2C-75F5-4D26-A860-D95607466155}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\views\\course\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF81D2C-75F5-4D26-A860-D95607466155}|CourseWeb\\CourseWeb.csproj|d:\\exampleproject\\courseweb\\courseweb\\courseweb\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF81D2C-75F5-4D26-A860-D95607466155}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF81D2C-75F5-4D26-A860-D95607466155}|CourseWeb\\CourseWeb.csproj|d:\\exampleproject\\courseweb\\courseweb\\courseweb\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF81D2C-75F5-4D26-A860-D95607466155}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF81D2C-75F5-4D26-A860-D95607466155}|CourseWeb\\CourseWeb.csproj|d:\\exampleproject\\courseweb\\courseweb\\courseweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF81D2C-75F5-4D26-A860-D95607466155}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF81D2C-75F5-4D26-A860-D95607466155}|CourseWeb\\CourseWeb.csproj|d:\\exampleproject\\courseweb\\courseweb\\courseweb\\controllers\\profilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF81D2C-75F5-4D26-A860-D95607466155}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\controllers\\profilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF81D2C-75F5-4D26-A860-D95607466155}|CourseWeb\\CourseWeb.csproj|d:\\exampleproject\\courseweb\\courseweb\\courseweb\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF81D2C-75F5-4D26-A860-D95607466155}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF81D2C-75F5-4D26-A860-D95607466155}|CourseWeb\\CourseWeb.csproj|d:\\exampleproject\\courseweb\\courseweb\\courseweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EF81D2C-75F5-4D26-A860-D95607466155}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF81D2C-75F5-4D26-A860-D95607466155}|CourseWeb\\CourseWeb.csproj|d:\\exampleproject\\courseweb\\courseweb\\courseweb\\views\\profil\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EF81D2C-75F5-4D26-A860-D95607466155}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\views\\profil\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF81D2C-75F5-4D26-A860-D95607466155}|CourseWeb\\CourseWeb.csproj|d:\\exampleproject\\courseweb\\courseweb\\courseweb\\migrations\\20250217114735_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF81D2C-75F5-4D26-A860-D95607466155}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\migrations\\20250217114735_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF81D2C-75F5-4D26-A860-D95607466155}|CourseWeb\\CourseWeb.csproj|d:\\exampleproject\\courseweb\\courseweb\\courseweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF81D2C-75F5-4D26-A860-D95607466155}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF81D2C-75F5-4D26-A860-D95607466155}|CourseWeb\\CourseWeb.csproj|d:\\exampleproject\\courseweb\\courseweb\\courseweb\\context\\coursedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF81D2C-75F5-4D26-A860-D95607466155}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\context\\coursedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF81D2C-75F5-4D26-A860-D95607466155}|CourseWeb\\CourseWeb.csproj|d:\\exampleproject\\courseweb\\courseweb\\courseweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6EF81D2C-75F5-4D26-A860-D95607466155}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF81D2C-75F5-4D26-A860-D95607466155}|CourseWeb\\CourseWeb.csproj|d:\\exampleproject\\courseweb\\courseweb\\courseweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EF81D2C-75F5-4D26-A860-D95607466155}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF81D2C-75F5-4D26-A860-D95607466155}|CourseWeb\\CourseWeb.csproj|d:\\exampleproject\\courseweb\\courseweb\\courseweb\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EF81D2C-75F5-4D26-A860-D95607466155}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF81D2C-75F5-4D26-A860-D95607466155}|CourseWeb\\CourseWeb.csproj|d:\\exampleproject\\courseweb\\courseweb\\courseweb\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EF81D2C-75F5-4D26-A860-D95607466155}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF81D2C-75F5-4D26-A860-D95607466155}|CourseWeb\\CourseWeb.csproj|d:\\exampleproject\\courseweb\\courseweb\\courseweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF81D2C-75F5-4D26-A860-D95607466155}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Migrations\\20250220083859_ModelChangeCandidate3Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CourseWeb\\Migrations\\20250220083859_ModelChangeCandidate3Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CourseWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CourseWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAgwGkBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T06:46:44.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "CourseWeb\\Controllers\\CourseController.cs",
+              "ToolTip": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "CourseWeb\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwHcAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T05:33:08.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CourseWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CourseWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T06:22:33.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Models\\Candidate.cs",
+              "RelativeDocumentMoniker": "CourseWeb\\Models\\Candidate.cs",
+              "ToolTip": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Models\\Candidate.cs",
+              "RelativeToolTip": "CourseWeb\\Models\\Candidate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T05:26:10.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfilController.cs",
+              "DocumentMoniker": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Controllers\\ProfilController.cs",
+              "RelativeDocumentMoniker": "CourseWeb\\Controllers\\ProfilController.cs",
+              "ToolTip": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Controllers\\ProfilController.cs",
+              "RelativeToolTip": "CourseWeb\\Controllers\\ProfilController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T06:14:43.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "CourseWeb\\Models\\UserModel.cs",
+              "ToolTip": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Models\\UserModel.cs",
+              "RelativeToolTip": "CourseWeb\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T05:26:20.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Apply.cshtml",
+              "DocumentMoniker": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Views\\Course\\Apply.cshtml",
+              "RelativeDocumentMoniker": "CourseWeb\\Views\\Course\\Apply.cshtml",
+              "ToolTip": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Views\\Course\\Apply.cshtml",
+              "RelativeToolTip": "CourseWeb\\Views\\Course\\Apply.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T10:12:19.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Views\\Course\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CourseWeb\\Views\\Course\\Delete.cshtml",
+              "ToolTip": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Views\\Course\\Delete.cshtml",
+              "RelativeToolTip": "CourseWeb\\Views\\Course\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T10:12:29.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CourseWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CourseWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAIwNwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T06:32:59.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Program.cs",
+              "RelativeDocumentMoniker": "CourseWeb\\Program.cs",
+              "ToolTip": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Program.cs",
+              "RelativeToolTip": "CourseWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T05:20:59.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Views\\Profil\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "CourseWeb\\Views\\Profil\\SignUp.cshtml",
+              "ToolTip": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Views\\Profil\\SignUp.cshtml",
+              "RelativeToolTip": "CourseWeb\\Views\\Profil\\SignUp.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T07:43:39.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250217114735_FirstMigration.cs",
+              "DocumentMoniker": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Migrations\\20250217114735_FirstMigration.cs",
+              "RelativeDocumentMoniker": "CourseWeb\\Migrations\\20250217114735_FirstMigration.cs",
+              "ToolTip": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Migrations\\20250217114735_FirstMigration.cs",
+              "RelativeToolTip": "CourseWeb\\Migrations\\20250217114735_FirstMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T05:36:38.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CourseDbContext.cs",
+              "DocumentMoniker": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Context\\CourseDbContext.cs",
+              "RelativeDocumentMoniker": "CourseWeb\\Context\\CourseDbContext.cs",
+              "ToolTip": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Context\\CourseDbContext.cs",
+              "RelativeToolTip": "CourseWeb\\Context\\CourseDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:51:00.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "CourseWeb\\appsettings.json",
+              "ToolTip": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\appsettings.json",
+              "RelativeToolTip": "CourseWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T17:27:45.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Views\\Course\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CourseWeb\\Views\\Course\\Edit.cshtml",
+              "ToolTip": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Views\\Course\\Edit.cshtml",
+              "RelativeToolTip": "CourseWeb\\Views\\Course\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T10:12:31.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "CourseWeb\\Views\\Course\\Index.cshtml",
+              "ToolTip": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "CourseWeb\\Views\\Course\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T10:12:32.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "CourseWeb\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "CourseWeb\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:12:06.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250220083859_ModelChangeCandidate3Migration.cs",
+              "DocumentMoniker": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Migrations\\20250220083859_ModelChangeCandidate3Migration.cs",
+              "RelativeDocumentMoniker": "CourseWeb\\Migrations\\20250220083859_ModelChangeCandidate3Migration.cs",
+              "ToolTip": "D:\\ExampleProject\\CourseWeb\\CourseWeb\\CourseWeb\\Migrations\\20250220083859_ModelChangeCandidate3Migration.cs",
+              "RelativeToolTip": "CourseWeb\\Migrations\\20250220083859_ModelChangeCandidate3Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:38:59.866Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

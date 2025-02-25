@@ -1,0 +1,15 @@
+﻿
+@model Candidate
+
+<h3> Kurs Silme</h3>
+<hr />
+
+<form method="get" asp-controller="Course">
+	<div class="mb-4">
+		<label asp-for="Id" class="form-label">Course adı</label>
+		<input asp-for="Id" class="form-control" />
+	</div>
+	<button class="btn btn-danger" > Delete</button>
+
+</form>
+

@@ -1,0 +1,19 @@
+﻿
+@model Candidate
+<h2>Kurs editleme</h2>
+<hr />
+<form asp-controller="Course" asp-action="Edit" method="post">
+	<input type="hidden" asp-for="Id" />
+	<div class="mb-3">
+		<label asp-for="Id" class="form-label">Course adı</label>
+		<input asp-for="Id" class="form-control" />
+	</div>
+@* 	<div class="mb-3">
+		<label asp-for="Id" class="form-label">Course adı</label>
+		<input asp-for="Id" class="form-control" />
+	</div>
+	<div class="mb-3">
+		<label asp-for="Id" class="form-label">Course adı</label>
+		<input asp-for="Id" class="form-control" />
+	</div> *@
+</form>

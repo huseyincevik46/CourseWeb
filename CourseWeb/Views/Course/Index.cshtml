@@ -1,0 +1,53 @@
+﻿@{
+	ViewData["Title"] = "Index";
+}
+
+@model IEnumerable<Candidate>
+
+@if (Model.Count() > 0)
+{
+	<h6 class="display-7">
+		Applications(@Model.Count())
+	</h6>
+
+	<div class="container">
+		<table class="table table-hover table-striped">
+			<thead>
+				<tr>  @* kurs kayıt bilgileri *@
+					
+					<th>@Html.DisplayNameFor(m => m.Id)</th>
+					<th>@Html.DisplayNameFor(m => m.Id)</th>
+
+				</tr>
+
+			</thead>
+			<tbody>
+				@foreach(Candidate candidate in Model)  @* databaseden kurs verilerini liste halinde alır *@
+				{
+					<tr>
+						<td>@candidate.ApplyAt</td>
+						<td>@candidate.SelectedCourse</td>
+						<td>
+							 <a href="" class="btn btn-sm btn-primary" >Details</a>
+							 <a href="" class="btn btn-sm btn-danger">Delete</a>
+						</td>
+
+
+					</tr>
+					
+				}
+			</tbody>
+		</table>
+
+	</div>
+
+}
+else
+{
+	<div class="alert alert-info">
+		There is no applicstions.Please click here to
+		<a class="alert-link" asp-action="Apply">
+			apply.
+		</a>
+	</div>
+}
